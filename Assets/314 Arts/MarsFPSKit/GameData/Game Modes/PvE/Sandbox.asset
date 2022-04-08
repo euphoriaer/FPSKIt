@@ -26,19 +26,19 @@ MonoBehaviour:
   spawnLoadouts:
   - loadoutWeapons:
     - goesToSlot: 0
-      weaponID: 1
+      weaponID: 11
       attachments: 0000000000000000
     - goesToSlot: 1
-      weaponID: 2
+      weaponID: 13
       attachments: 
     - goesToSlot: 2
-      weaponID: 8
+      weaponID: 17
       attachments: 
     - goesToSlot: 3
-      weaponID: 5
+      weaponID: 15
       attachments: 
     - goesToSlot: 4
-      weaponID: 6
+      weaponID: 23
       attachments: 
     teamLoadout: []
   spawnPlayerModels:
