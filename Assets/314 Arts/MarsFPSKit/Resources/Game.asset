@@ -35,7 +35,7 @@ MonoBehaviour:
   - Melee
   - Lethal
   - NonLethal
-  defaultWeaponsInSlot: 0100000004000000050000000700000006000000
+  defaultWeaponsInSlot: 0a0000000b0000000c0000000d0000000e000000
   allWeapons:
   - {fileID: 11400000, guid: 900c2e883e439f1459d459014af3090f, type: 2}
   - {fileID: 11400000, guid: 16b8d1d78a64500488993d5cd05b28d2, type: 2}

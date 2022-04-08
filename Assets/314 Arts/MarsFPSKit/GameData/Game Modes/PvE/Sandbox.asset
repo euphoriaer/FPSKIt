@@ -21,24 +21,24 @@ MonoBehaviour:
     type: 3}
   hudPrefab: {fileID: 0}
   spawnSystemToUse: {fileID: 11400000, guid: 06bd9c00b4bfd8a40b1a5a854643370b, type: 2}
-  botManagerToUse: {fileID: 0}
-  botControlOverride: {fileID: 0}
+  botManagerToUse: {fileID: 11400000, guid: 135db0de77158ff46b28c0a0e1afe7a4, type: 2}
+  botControlOverride: {fileID: 11400000, guid: 0dfca2c3df6cf1845b370834e1201590, type: 2}
   spawnLoadouts:
   - loadoutWeapons:
     - goesToSlot: 0
-      weaponID: 1
+      weaponID: 10
       attachments: 0000000000000000
     - goesToSlot: 1
-      weaponID: 2
+      weaponID: 11
       attachments: 
     - goesToSlot: 2
-      weaponID: 8
+      weaponID: 12
       attachments: 
     - goesToSlot: 3
-      weaponID: 5
+      weaponID: 13
       attachments: 
     - goesToSlot: 4
-      weaponID: 6
+      weaponID: 14
       attachments: 
     teamLoadout: []
   spawnPlayerModels:

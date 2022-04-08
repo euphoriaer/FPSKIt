@@ -20,4 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/314 Arts/MarsFPSKit/Scenes/Showcase_Map.unity
     guid: 738b94d1afdf6074c889e8edf557ccae
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9eb07e2d669e9c94e9d7d3c782a916f7,
+      type: 2}
