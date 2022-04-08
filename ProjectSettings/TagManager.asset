@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerCollider
+  - Concrete
+  - Dirt
+  - Metal
+  - Wood
+  - Blood
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -13,6 +20,20 @@ TagManager:
   - UI
   - 
   - 
+  - PlayerRoot
+  - PlayerColliders
+  - IgnoreCollisionWithPlayer
+  - PlayerRagdoll
+  - LoadoutMenu
+  - PlayerBotSpottingCollider
+  - FirstPerson
+  - TriggerForPlayer
+  - BulletShells
+  - Bullet
+  - AIRoot
+  - AI
+  - AIDead
+  - IgnoreRaycastAndPickup
   - 
   - 
   - 
@@ -21,22 +42,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - Minimap
   m_SortingLayers:
   - name: Default
     uniqueID: 0

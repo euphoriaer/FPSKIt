@@ -1,0 +1,21 @@
+Kit_IngameMain
+0 = Player was killed
+1 = Request Chat Message
+2 = Chat Message Received
+3 = Reset Player
+4 = Start Vote
+5 = Player Joined Team
+6 = Spawn Scene Object
+7 = Display Hitmarker
+8 = Give XP
+
+Killstreaks_KillstreakAirstrike
+30 = Spawn Bomb
+
+Kit_PvE_SandboxMenu
+100 = Coop Map Change
+
+Kit_PvE_ZombieWaveSurvival_Menu
+100 = Coop Map Change
+101 = Zombie Kill (killed by local player)
+102 = Drop Sound

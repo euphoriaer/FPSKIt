@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 726daa7f953bf134798051334458d6fe, type: 3}
+  m_Name: Default Input Manager
+  m_EditorClassIdentifier: 
+  scanFrequency: 1
+  weaponSlotKeys:
+  - Weapon One
+  - Weapon Two
+  - Quick Grenade Lethal
+  - Cycle Grenade Lethal
+  - Quick Melee
+  - Grenade Lethal
+  - Melee
+  - Quick Grenade Non Lethal
+  - Cycle Grenade Non Lethal
+  - Grenade Non Lethal
+  spottingLayer:
+    serializedVersion: 2
+    m_Bits: 8192
+  spottingCheckLayers:
+    serializedVersion: 2
+    m_Bits: 8705
+  spottingMaxDistance: 50
+  spottingBoxExtents: {x: 30, y: 30}
+  spottingFov: 90
+  spottingRayDistance: 200

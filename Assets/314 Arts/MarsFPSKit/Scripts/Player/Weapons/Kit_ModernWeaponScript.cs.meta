@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: a0450fe2a9b03ec488e82c9014ca2c9a
+timeCreated: 1494073304
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstPersonPrefab: {instanceID: 0}
+  - thirdPersonPrefab: {instanceID: 0}
+  - dropPrefab: {instanceID: 0}
+  - bulletPrefab: {fileID: 1481820360812430, guid: 08602221d5d6bef4d9ee10e599f504bf,
+      type: 2}
+  - reloadSound: {instanceID: 0}
+  - reloadSoundEmpty: {instanceID: 0}
+  - reloadProceduralStartSound: {instanceID: 0}
+  - reloadProceduralStartEmptySound: {instanceID: 0}
+  - reloadProceduralInsertSound: {instanceID: 0}
+  - reloadProceduralEndSound: {instanceID: 0}
+  - shellEjectionPrefab: {instanceID: 0}
+  - drawSound: {instanceID: 0}
+  - putawaySound: {instanceID: 0}
+  - fireSound: {instanceID: 0}
+  - fireSoundThirdPerson: {instanceID: 0}
+  - boltActionSoundNormal: {instanceID: 0}
+  - boltActionSoundLast: {instanceID: 0}
+  - dryFireSound: {instanceID: 0}
+  - genericGunAnimatorControllerPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
