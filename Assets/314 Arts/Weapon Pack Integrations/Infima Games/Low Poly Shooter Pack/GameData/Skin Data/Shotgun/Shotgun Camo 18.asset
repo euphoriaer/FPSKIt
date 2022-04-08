@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c298754d8c68746bae78495d797e2f, type: 3}
+  m_Name: Shotgun Camo 18
+  m_EditorClassIdentifier: 
+  displayName: Camo 18
+  setToRendererWithIndexFp:
+  - materialsToSet:
+    - {fileID: 2100000, guid: ce4708c804c9ad94cb5498ea6e642120, type: 2}
+    - {fileID: 2100000, guid: be70d477c6576524ca56128c0caaf1ad, type: 2}
+    - {fileID: 2100000, guid: be70d477c6576524ca56128c0caaf1ad, type: 2}
+    - {fileID: 2100000, guid: be70d477c6576524ca56128c0caaf1ad, type: 2}
+    - {fileID: 2100000, guid: be70d477c6576524ca56128c0caaf1ad, type: 2}
+    - {fileID: 2100000, guid: be70d477c6576524ca56128c0caaf1ad, type: 2}
+  setToRendererWithIndexTpOverride: []
+  setToRendererWithIndexDropOverride: []

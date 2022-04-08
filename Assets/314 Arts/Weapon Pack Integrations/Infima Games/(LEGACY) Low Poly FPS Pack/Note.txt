@@ -1,0 +1,1 @@
+Unfortunately, Infima Games removed the Grenades & Third Person Animations from the legacy pack, so they no longer work. The weapons and player model however still do work.

@@ -17,5 +17,4 @@ MonoBehaviour:
   teamImage: {fileID: 21300000, guid: f349f64b76f786a4c858b5deae7038a3, type: 3}
   playerModelDefault: 0
   playerModels:
-  - {fileID: 11400000, guid: 7f9fc6492ab1e1f46b8d48a2ccd737d0, type: 2}
-  - {fileID: 11400000, guid: bda40484e5cd3114382c5c8559362a11, type: 2}
+  - {fileID: 11400000, guid: 72b84e6cd48888b4aa0cadd85d913d2d, type: 2}

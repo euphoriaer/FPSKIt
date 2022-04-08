@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 002ba118d6f49f1428d5c7e33cc849ab, type: 3}
+  m_Name: Render Scope Full Accuracy
+  m_EditorClassIdentifier: 
+  statChangeMode: 2
+  useGlobalSettings: 0
+  fireMode: 0
+  RPM: 600
+  bulletsPerMag: 30
+  bulletsToReloadAtStart: 60
+  baseDamage: 30
+  range: 500
+  damageDropoff:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -0.0004
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 500
+      value: 0.8
+      inSlope: -0.0004
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  fireTypeMode: 0
+  burstBulletsPerShot: 3
+  burstTimeBetweenShots: 0.1
+  amountOfPellets: 12
+  speedMultiplierBase: 1
+  ragdollForce: 500
+  useBullets: 0
+  bulletsMode: 0
+  bulletsPenetrationEnabled: 1
+  bulletsPenetrationForce: 3
+  bulletPrefab: {fileID: 0}
+  bulletSpeed: 200
+  bulletHideForFrames: 3
+  bulletGravityMultiplier: 1
+  bulletLifeTime: 10
+  bulletStaysAliveAfterDeath: 0
+  bulletStaysAliveAfterDeathTime: 10
+  useBulletSpread: 1
+  bulletSpreadMode: 0
+  bulletSpreadHipBase: 1
+  bulletSpreadHipVelocityAdd: 1
+  bulletSpreadHipVelocityReference: 1
+  bulletSpreadAimBase: 0
+  bulletSpreadAimVelocityAdd: 0
+  bulletSpreadAimVelocityReference: 1
+  bulletSpreadSprayPattern:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  bulletSpreadSprayPatternRecoverySpeed: 1
+  useRecoil: 0
+  recoilPerShotMin: {x: -0.1, y: 0.5}
+  recoilPerShotMax: {x: 0.1, y: 1}
+  recoilApplyTime: 0.1
+  recoilReturnSpeed: 6

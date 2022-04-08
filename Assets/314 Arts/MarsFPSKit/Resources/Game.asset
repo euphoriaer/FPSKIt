@@ -46,6 +46,24 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a9fdf8255d18e02479f299759cfb0ee3, type: 2}
   - {fileID: 11400000, guid: 32577b1534dfec74ea41828f3c1e9339, type: 2}
   - {fileID: 11400000, guid: c79be11517e20f14aa9a73dcdb5c13ea, type: 2}
+  - {fileID: 11400000, guid: cd847a0d2c33fd2438f307552c424918, type: 2}
+  - {fileID: 11400000, guid: 5478d7886ec71774f9034d67545c3ec7, type: 2}
+  - {fileID: 11400000, guid: b83d9cb4ec9680a48991fd9021b9b2a3, type: 2}
+  - {fileID: 11400000, guid: 2c36015ec5e72ac4b96bfa12637a8941, type: 2}
+  - {fileID: 11400000, guid: abfc5415c1a4df6448ecf1c180de6889, type: 2}
+  - {fileID: 11400000, guid: e4bf877dc3b420e49adf2ee716beb4d1, type: 2}
+  - {fileID: 11400000, guid: 04e3a0a8e01372140974d63b50f74b8d, type: 2}
+  - {fileID: 11400000, guid: 17f15bdeb0aae264ca882a97b1e26d4c, type: 2}
+  - {fileID: 11400000, guid: 1d0a29687844f5948a03e8145d317aba, type: 2}
+  - {fileID: 11400000, guid: f9845b583f2650e48bc8590a1ac85035, type: 2}
+  - {fileID: 11400000, guid: c762cf45612332345aefbb49aae9b4d1, type: 2}
+  - {fileID: 11400000, guid: 35efe7058a04c7749947edb33da63bf1, type: 2}
+  - {fileID: 11400000, guid: 59483cd2cab8d214180899b22e8d0a19, type: 2}
+  - {fileID: 11400000, guid: 04460beee11b5d241bb54076b853f0ff, type: 2}
+  - {fileID: 11400000, guid: 5f08f6ecd3e016e42b6ef8227e85b5e1, type: 2}
+  - {fileID: 11400000, guid: 1e24b8865badf274a85d83c0e97d0962, type: 2}
+  - {fileID: 11400000, guid: fc2a6f38e7fcd394f8bae939d1268bc1, type: 2}
+  - {fileID: 11400000, guid: cd1637b96b7fee544ba19bf1f96141f5, type: 2}
   allAnimatorAnimationSets:
   - prefix: Rifle
     type: 0

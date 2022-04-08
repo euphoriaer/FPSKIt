@@ -42,5 +42,5 @@ MonoBehaviour:
       attachments: 
     teamLoadout: []
   spawnPlayerModels:
-  - information: {fileID: 11400000, guid: 7f9fc6492ab1e1f46b8d48a2ccd737d0, type: 2}
+  - information: {fileID: 11400000, guid: 72b84e6cd48888b4aa0cadd85d913d2d, type: 2}
     customization: 00000000
